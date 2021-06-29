@@ -1,9 +1,9 @@
 ### Hey there! I'm Pranav Kumar 👋
 
 Inital briefing about me here!
-- 📫 Find more about me here: [https://kumaarpranv.github.io](https://kumaarpranv.github.io)
-- 🔭 I work in researching & implementing ML, hacking prototypes
-- 🤓 I'm currently learning rust, lower-level computer programming, Theory A in my free time
+- Find more about me here: [https://kumaarpranv.github.io](https://kumaarpranv.github.io)
+- I work in researching & implementing ML, hacking prototypes
+- I'm currently learning lower-level computer programming, Theory A in my free time
 
 ## ⚡ Some Technologies I work with
 ![Pytorch](https://img.shields.io/badge/-Pytorch-white?style=flat-square&logo=Pytorch)
