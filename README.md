@@ -1,11 +1,10 @@
-### Hey there! I'm Pranav Kumar 👋
+User { name: pranav, 
+      current_role: backend_dev,
+      profile_url: [https://kumaarpranv.github.io](https://kumaarpranv.github.io),
+      addl_interests: "ML/CS theory A",
+      currently_learning: "systems programming and rust in free time"}
 
-Inital briefing about me here!
-- Find more about me here: [https://kumaarpranv.github.io](https://kumaarpranv.github.io)
-- I work in mostly backend currently, but interested in ML/CS theory A as well.
-- I'm currently learning systems programming and rust in free time.
-
-## ⚡ Some Technologies I work with
+## Some Technologies I work with
 ![Fastapi](https://img.shields.io/badge/-Fastapi-green?style=flat-square&logo=Fastapi)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-lightblue?style=flat-square&logo=Kubernetes)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-orange?style=flat-square&logo=Prometheus)
