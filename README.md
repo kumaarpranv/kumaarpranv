@@ -1,9 +1,10 @@
-User { name: pranav, 
-      current_role: backend_dev,
-      profile_url: [https://kumaarpranv.github.io](https://kumaarpranv.github.io),
+```ts
+User { name: pranav, // not string, perceivably unique object
+      current_role: backend_dev, // hmm more or less ig
+      profile_url: "https://kumaarpranv.github.io",
       addl_interests: "ML/CS theory A",
       currently_learning: "systems programming and rust in free time"}
-
+```
 ## Some Technologies I work with
 ![Fastapi](https://img.shields.io/badge/-Fastapi-green?style=flat-square&logo=Fastapi)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-lightblue?style=flat-square&logo=Kubernetes)
