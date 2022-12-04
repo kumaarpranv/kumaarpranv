@@ -2,16 +2,18 @@
 
 Inital briefing about me here!
 - Find more about me here: [https://kumaarpranv.github.io](https://kumaarpranv.github.io)
-- I work in researching & implementing ML, hacking prototypes
-- I'm currently learning lower-level computer programming, Theory A
+- I work in mostly backend currently, but interested in ML/CS theory A as well.
+- I'm currently learning systems programming and rust in free time.
 
 ## ⚡ Some Technologies I work with
+![Fastapi](https://img.shields.io/badge/-Fastapi-green?style=flat-square&logo=Fastapi)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=Kubernetes)
+![Prometheus](https://img.shields.io/badge/-Prometheus-orange?style=flat-square&logo=Prometheus)
+![Terraform](https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=Terraform)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-white?style=flat-square&logo=Pytorch)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-E34F26?style=flat-square&logo=Tensorflow)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
 ![Springboot](https://img.shields.io/badge/-Springboot-white?style=flat-square&logo=Springboot)
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
+
 
 ![kumaarpranv's github stats](https://github-readme-stats.vercel.app/api?username=kumaarpranv)
